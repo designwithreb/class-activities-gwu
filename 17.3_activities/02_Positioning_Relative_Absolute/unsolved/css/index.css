@@ -21,11 +21,17 @@ body {
   width: 150px;
   background-color: red;
   color: white;
+  position: relative;
+  top: 10px;
+  left: 10px;
 
 }
 .fixed {
   height: 200px;
   width: 200px;
   background-color: green;
+  position: fixed;
+    right: 30px;
+    bottom: 20px;
 
 }
