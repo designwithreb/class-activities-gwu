@@ -28,27 +28,32 @@ nav {
     width: 70%;
     float: left;
     background-color: forestgreen;
-    height: fit-content;
+    height: 20%;
+    color: floralwhite;
 }
 
 .pet-name {
     text-align: center;
+    
 }
 
 .pet-name img {
-    width: 150px;
+    width: 300px;
+
 
 }
 
 .pet-content {
     padding: 20px;
+
 }
 
 .pet-content img {
     float: left;
     margin-right: 20px;
     width: 400px;
-    
+    padding-bottom: 20px;
 
+    
 
 }
