@@ -29,7 +29,8 @@ body {
   height: 50px;
   background-color: red;
   margin: 0 auto;
-  /* Write the scale transform here */
+  transform:scale(4,7)
+
 
 }
 .translate {
@@ -49,4 +50,5 @@ body {
   background-color: lightgrey;
   border: 1px solid lightblue;
   margin: 15px 0px;
+  transform: rotate(180deg)
 }
